@@ -1,6 +1,6 @@
 # Task Management API
 
-Welcome to the Task Management API! This API provides endpoints for managing tasks and demonstrates the use of several design patterns: Strategy Pattern, Decorator Pattern, Dependency Injection, and Factory Pattern. Here's an overview of the project structure and the design patterns used:
+This API provides endpoints for managing tasks and demonstrates the Task management api with the use of several design patterns: Strategy Pattern, Decorator Pattern, Dependency Injection, and Factory Pattern. Here's an overview of the project structure and the design patterns used:
 
 ## Project Structure
 Controllers: Contains the API endpoints (TaskManagementController) responsible for handling HTTP requests and responses.
