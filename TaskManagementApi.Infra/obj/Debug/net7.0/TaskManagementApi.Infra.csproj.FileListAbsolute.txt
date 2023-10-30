@@ -1,0 +1,15 @@
+C:\Code\hiiretail-lossprevention-httpclient-authentication\TaskManagementApi\TaskManagementApi.Infra\bin\Debug\net7.0\TaskManagementApi.Infra.deps.json
+C:\Code\hiiretail-lossprevention-httpclient-authentication\TaskManagementApi\TaskManagementApi.Infra\bin\Debug\net7.0\TaskManagementApi.Infra.dll
+C:\Code\hiiretail-lossprevention-httpclient-authentication\TaskManagementApi\TaskManagementApi.Infra\bin\Debug\net7.0\TaskManagementApi.Infra.pdb
+C:\Code\hiiretail-lossprevention-httpclient-authentication\TaskManagementApi\TaskManagementApi.Infra\bin\Debug\net7.0\TaskManagementApi.Services.dll
+C:\Code\hiiretail-lossprevention-httpclient-authentication\TaskManagementApi\TaskManagementApi.Infra\bin\Debug\net7.0\TaskManagementApi.Services.pdb
+C:\Code\hiiretail-lossprevention-httpclient-authentication\TaskManagementApi\TaskManagementApi.Infra\obj\Debug\net7.0\TaskManagementApi.Infra.csproj.AssemblyReference.cache
+C:\Code\hiiretail-lossprevention-httpclient-authentication\TaskManagementApi\TaskManagementApi.Infra\obj\Debug\net7.0\TaskManagementApi.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\hiiretail-lossprevention-httpclient-authentication\TaskManagementApi\TaskManagementApi.Infra\obj\Debug\net7.0\TaskManagementApi.Infra.AssemblyInfoInputs.cache
+C:\Code\hiiretail-lossprevention-httpclient-authentication\TaskManagementApi\TaskManagementApi.Infra\obj\Debug\net7.0\TaskManagementApi.Infra.AssemblyInfo.cs
+C:\Code\hiiretail-lossprevention-httpclient-authentication\TaskManagementApi\TaskManagementApi.Infra\obj\Debug\net7.0\TaskManagementApi.Infra.csproj.CoreCompileInputs.cache
+C:\Code\hiiretail-lossprevention-httpclient-authentication\TaskManagementApi\TaskManagementApi.Infra\obj\Debug\net7.0\TaskManagementApi.Infra.csproj.CopyComplete
+C:\Code\hiiretail-lossprevention-httpclient-authentication\TaskManagementApi\TaskManagementApi.Infra\obj\Debug\net7.0\TaskManagementApi.Infra.dll
+C:\Code\hiiretail-lossprevention-httpclient-authentication\TaskManagementApi\TaskManagementApi.Infra\obj\Debug\net7.0\refint\TaskManagementApi.Infra.dll
+C:\Code\hiiretail-lossprevention-httpclient-authentication\TaskManagementApi\TaskManagementApi.Infra\obj\Debug\net7.0\TaskManagementApi.Infra.pdb
+C:\Code\hiiretail-lossprevention-httpclient-authentication\TaskManagementApi\TaskManagementApi.Infra\obj\Debug\net7.0\ref\TaskManagementApi.Infra.dll

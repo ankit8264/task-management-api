@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CwTvgLFYolnqaAIX8aTtbSyiVT5DaUNwAcFR4sI4UTjb039j9L2gvJOsRZYDzRoXmiJlkRFfo4RtZnTNyRbyCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ankit Kumar\\Desktop\\TaskManagementApi - Copy\\TaskManagementApi.Services\\TaskManagementApi.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ankit Kumar\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ankit Kumar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ankit Kumar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
